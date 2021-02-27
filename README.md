@@ -1,2 +1,2 @@
 # HispanosCraft
-Servidor de RP de Minecraft Java
+Servidor SMP de Minecraft Java 1.16.4
